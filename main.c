@@ -5,6 +5,7 @@
 
 int main()
 {
+    //just to test
     int n=0;
     printf("Enter matrix[n][n] size: ");
     scanf("%d",&n);
